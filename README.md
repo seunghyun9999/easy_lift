@@ -1,5 +1,5 @@
-# easy_lift                                  
-### 전승현, 이지우, 강수경, 최아진
+# <p align="center" style="font-size: 60px; font-weight: bold;">easy_lift</p>                         
+#### <p align="right">전승현, 이지우, 강수경, 최아진
 -----
 ![추락2](https://github.com/user-attachments/assets/aa044bbc-53c5-4467-9d3f-73f37f28bee9)
 
