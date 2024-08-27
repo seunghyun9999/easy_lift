@@ -1,7 +1,7 @@
 # easy_lift
 
 ---
-
+![추락2](https://github.com/user-attachments/assets/aa044bbc-53c5-4467-9d3f-73f37f28bee9)
 
 
 ![추락사고](https://github.com/user-attachments/assets/c04a1ab8-e0e2-4614-97ee-a75f1eae6ab6)
